@@ -26,10 +26,7 @@ int main() {
 ```
 
 ## OUTPUT:
-<img width="1623" height="480" alt="image" src="https://github.com/user-attachments/assets/db8787a8-723e-47bb-b022-065c773138a1" />
-
-
-
+<img width="1626" height="360" alt="image" src="https://github.com/user-attachments/assets/541acf05-3207-426f-8a9e-080a2fc34265" />
 
 
 
@@ -80,7 +77,7 @@ int main() {
 ```
 
 # OUTPUT:
-<img width="1625" height="522" alt="image" src="https://github.com/user-attachments/assets/441c6e34-e140-4769-afdc-9a111d4b34d0" />
+<img width="1622" height="446" alt="image" src="https://github.com/user-attachments/assets/66d979c4-260b-4d89-ad3f-ad358643024c" />
 
 
 
